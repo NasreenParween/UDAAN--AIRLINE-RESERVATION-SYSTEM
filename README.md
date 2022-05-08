@@ -33,8 +33,6 @@ In the **administrative part** Anyone from admin department login and can change
 
 ### I have added my code, images used and some screenshots of my project in this repository refer this.
 
-![image](https://user-images.githubusercontent.com/97826387/151140103-af07777c-7dc8-4de5-adfe-a9dc8a6a13f4.png)                                            
-![image](https://user-images.githubusercontent.com/97826387/151140287-95e7734f-0de4-4080-92dc-4efdaedf4f54.png)
-![image](https://user-images.githubusercontent.com/97826387/151140543-39d9ded9-53e7-4882-ae40-01da8fadae32.png)
+<img src="https://user-images.githubusercontent.com/97826387/151140103-af07777c-7dc8-4de5-adfe-a9dc8a6a13f4.png" width="200" height="250" />  <img src="https://user-images.githubusercontent.com/97826387/151140287-95e7734f-0de4-4080-92dc-4efdaedf4f54.png" width="200" height="250" /> ![image](https://user-images.githubusercontent.com/97826387/151140543-39d9ded9-53e7-4882-ae40-01da8fadae32.png)
 
 
